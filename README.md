@@ -1,9 +1,9 @@
 # Sales_Analysis_Project
-Project Overview
+### Project Overview
 
 Analyze a company’s monthly sales data to uncover insights, identify trends, and support data-driven business decisions.
 
-Dataset
+### Dataset
 
 The dataset contains the following columns:
 
@@ -23,9 +23,9 @@ Region – Sales region
 
 Sales_Rep – Sales representative
 
-Objectives
+### Objectives
 
-Data Cleaning:
+### Data Cleaning:
 
 Handle missing or inconsistent data.
 
@@ -33,7 +33,7 @@ Convert Date to proper datetime format.
 
 Remove duplicate rows.
 
-Data Analysis:
+### Data Analysis:
 
 Calculate total revenue per product.
 
@@ -45,7 +45,7 @@ Compare sales performance across regions.
 
 Identify the best-performing sales representative.
 
-Visualization:
+### Visualization:
 
 Bar chart: Top 5 products by revenue.
 
@@ -55,10 +55,8 @@ Pie chart: Region-wise revenue contribution.
 
 Table: Sales rep performance summary.
 
-Reporting:
+### Reporting:
 
 Create a short summary report with key insights, patterns, and suggestions to improve sales.
 
-Tools Used
 
-Excel / Power BI / Python (Pandas, Matplotlib/Seaborn)
